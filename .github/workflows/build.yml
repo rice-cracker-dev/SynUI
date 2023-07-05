@@ -70,4 +70,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: Portable
-          path: Output\portable.zip
+          path: SynUI\bin\Release\
